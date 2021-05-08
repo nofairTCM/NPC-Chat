@@ -14,4 +14,5 @@ return {
     version = "0.1.1";
     buildVersion = 12;
     pluginIgnore = false;
+    type = "module";
 };

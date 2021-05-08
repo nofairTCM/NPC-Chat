@@ -1,0 +1,42 @@
+{
+  "name": "nofairTCM",
+  "tree": {
+    "$className": "DataModel",
+    "ServerStorage": {
+      "$className": "ServerStorage",
+      "nofairTCM-Server": {
+        "$className": "Folder",
+        "modules": {
+          "$className": "Folder",
+          "NPC-Chat": {
+            "$path": "src/server"
+          }
+        },
+        "libs": {
+          "$className": "Folder"
+        }
+      }
+    },
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "nofairTCM-Client": {
+        "$className": "Folder",
+        "modules": {
+          "$className": "Folder",
+          "NPC-Chat": {
+            "$path": "src/client"
+          }
+        },
+        "libs": {
+          "$className": "Folder",
+          "AdvancedTween": {
+            "$path": "Lib-AdvancedTween/src"
+          },
+          "MaterialUI": {
+            "$path": "Lib-MaterialUI/src"
+          }
+        }
+      }
+    }
+  }
+}
