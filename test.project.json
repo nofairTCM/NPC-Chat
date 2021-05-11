@@ -5,16 +5,7 @@
     "ServerStorage": {
       "$className": "ServerStorage",
       "nofairTCM-Server": {
-        "$className": "Folder",
-        "modules": {
-          "$className": "Folder",
-          "NPC-Chat": {
-            "$path": "src/server"
-          }
-        },
-        "libs": {
-          "$className": "Folder"
-        }
+        "$className": "Folder"
       }
     },
     "ReplicatedStorage": {
