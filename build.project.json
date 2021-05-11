@@ -2,7 +2,7 @@
   "name": "nofairTCM",
   "tree": {
     "$properties": {
-      "Name": "NPC-CHAT"
+      "Name": "NPC-Chat"
     },
     "$path": "src"
   }

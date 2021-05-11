@@ -4,10 +4,14 @@
       <string name="Name">nofairTCM</string>
       <string name="Name">NPC-CHAT</string>
     </Properties>
-    <Item class="ModuleScript" referent="1">
+    <Item class="Folder" referent="1">
       <Properties>
         <string name="Name">client</string>
-        <string name="Source">-- *이걸 분석하겠다면 meta table 은 필수 지식*
+      </Properties>
+      <Item class="ModuleScript" referent="2">
+        <Properties>
+          <string name="Name">NPC-Chat</string>
+          <string name="Source">-- *이걸 분석하겠다면 meta table 은 필수 지식*
 
 local module = {};
 
@@ -75,11 +79,11 @@ function module:init()
 end
 
 return module</string>
-      </Properties>
-      <Item class="ModuleScript" referent="2">
-        <Properties>
-          <string name="Name">animation</string>
-          <string name="Source">local module = {};
+        </Properties>
+        <Item class="ModuleScript" referent="3">
+          <Properties>
+            <string name="Name">animation</string>
+            <string name="Source">local module = {};
 
 -- UI 엘리맨트 애니메이팅 담당 코드
 
@@ -137,7 +141,8 @@ function module:init(data)
 end
 
 return module</string>
-        </Properties>
+          </Properties>
+        </Item>
       </Item>
     </Item>
   </Item>
