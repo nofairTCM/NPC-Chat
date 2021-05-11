@@ -30,10 +30,10 @@
         "libs": {
           "$className": "Folder",
           "AdvancedTween": {
-            "$path": "Lib-AdvancedTween/src"
+            "$path": "Lib-AdvancedTween/src/client/AdvancedTween"
           },
           "MaterialUI": {
-            "$path": "Lib-MaterialUI/src"
+            "$path": "Lib-MaterialUI/src/client/MaterialUI"
           }
         }
       }

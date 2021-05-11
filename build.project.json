@@ -1,0 +1,9 @@
+{
+  "name": "nofairTCM",
+  "tree": {
+    "$properties": {
+      "Name": "NPC-CHAT"
+    },
+    "$path": "src"
+  }
+}
