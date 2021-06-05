@@ -10,7 +10,7 @@
     },
     "ReplicatedStorage": {
       "$className": "ReplicatedStorage",
-      "nofairTCM-Client": {
+      "nofairTCM_Client": {
         "$className": "Folder",
         "NpcChat": {
           "$path": "src/client"
