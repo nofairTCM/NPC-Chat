@@ -1,6 +1,0 @@
-[submodule "libs/Lib-AdvancedTween"]
-	path = libs/Lib-AdvancedTween
-	url = https://github.com/nofairTCM/Lib-AdvancedTween
-[submodule "libs/Lib-MaterialUI"]
-	path = libs/Lib-MaterialUI
-	url = https://github.com/nofairTCM/Lib-MaterialUI

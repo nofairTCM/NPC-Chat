@@ -1,0 +1,6 @@
+{
+    "version": "0.8.22",
+    "buildVersion": 22,
+    "publishVersion": 8,
+    "majorVersion": 0
+}
