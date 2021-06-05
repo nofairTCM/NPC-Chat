@@ -1,9 +1,9 @@
 {
-  "name": "NpcChat",
-  "tree": {
-    "$properties": {
-      "Name": "NpcChat"
-    },
-    "$path": "src"
-  }
+    "name": "NpcChat",
+    "tree": {
+        "$properties": {
+            "Name": "NpcChat"
+        },
+        "$path": "src"
+    }
 }
